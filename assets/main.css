@@ -1,0 +1,17 @@
+h1{
+	color: blue;
+}
+
+.patternUnit{
+    width: 150px;
+    height: 50px;
+    border-radius: 100px / 50px;
+	margin-right: -50px;
+	margin-bottom: -20px;
+	border: 3px solid;
+	border-color: rgb(255,0,0);
+}
+
+body{
+	background-color: rgb(253, 225, 173)
+}
